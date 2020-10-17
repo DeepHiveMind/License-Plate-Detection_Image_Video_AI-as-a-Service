@@ -1,3 +1,9 @@
+# LicensePlateDetector-AI-Model
+- [LicensePlateDetector-AI-API](https://github.com/DeepHiveMind/License-Plate-Detection_Image_Video_AI-as-a-Service/tree/master/LicensePlateDetector-master)
+- [LicensePlateDetector-AI-deployment-Flask](https://github.com/DeepHiveMind/License-Plate-Detection_Image_Video_AI-as-a-Service/tree/master/LicensePlateDetector-deployment-flask-master)
+
+
+
 # LicensePlateDetector-deployment-flask
 Deployment of ML model using flask
 
